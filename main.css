@@ -1,0 +1,19 @@
+.wrapper{
+    margin: 5px;
+    text-align: center;
+    background-color: white;
+}
+.wrapper{
+    width: 300px;
+    height: 350px;
+    margin: auto;
+    background: white;
+}
+.nav{
+    text-align: right;
+    background-color: white;
+    height: 50px;
+}
+body{
+    background-color: lightblue;
+}
